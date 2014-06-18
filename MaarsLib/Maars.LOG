@@ -1,0 +1,73 @@
+create parameter object ...
+Done.
+create main dialog ...
+- set Layout
+- set minimal dimension
+- create panel
+- create OpenSegmentationDialogButtonAction
+- create OpenFluoAnalysisDialogAction
+- create AutofocusButtonAction
+- add buttons to panel
+- add label for text field
+- create RefreshAreaToExploreAction
+- add button, textfield and label to mainDialog
+- create OpenMitosisMovieParamDialog
+- add button and label to panel
+- create OKMaarsMainDialog
+- add button
+Done.
+action create MaarsMitosisMovieDialog
+Create MaarsMitosisMovieDialog...
+- create generic dialog
+- add label for start movie conditions and value
+- ABSOLUTE_MINIMUM_SPINDLE_SIZE
+-- add checkbox condition
+-- add field value
+- ABSOLUTE_MAXIMUM_SPINDLE_SIZE
+-- add checkbox condition
+-- add field value
+- RELATIVE_SPINDLE_ANGLE
+-- add checkbox condition
+-- add field value
+- add label for end movie conditions and value
+- ABSOLUTE_MAXIMUM_SPINDLE_SIZE
+-- add checkbox condition
+-- add field value
+- RELATIVE_MAXIMUM_SPINDLE_SIZE
+-- add checkbox condition
+-- add field value
+- RELATIVE_SPINDLE_ANGLE
+-- add checkbox condition
+-- add field value
+- TIME_LIMIT
+-- add checkbox condition
+-- add field value
+- GROWING_SPINDLE
+-- add checkbox condition
+-- add field value
+- add label for acquisition parameters
+- add field for FLUORESCENCE_USED
+- add field for TIME_INTERVAL
+- add field for RANGE_SIZE_FOR_MOVIE
+- add field for STEP
+- add field for MARGIN_AROUD_CELL
+- add field for SAVING_PATH
+Done
+ show MaarsMitosisMovieDialog
+Done
+11-Apr-2014 17:39:30 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)
+11-Apr-2014 17:40:00 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)
+11-Apr-2014 17:40:30 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)
+11-Apr-2014 17:41:00 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)
+11-Apr-2014 17:41:30 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)
+11-Apr-2014 17:42:00 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)
+11-Apr-2014 17:42:30 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)
+11-Apr-2014 17:43:00 java.util.prefs.FileSystemPreferences syncWorld
+WARNING: Couldn't flush system prefs: java.util.prefs.BackingStoreException: java.io.FileNotFoundException: /etc/.java/.systemPrefs/org/micromanager/prefs.tmp (Permission denied)

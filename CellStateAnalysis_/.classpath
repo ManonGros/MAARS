@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/marie/workspace/IJ/plugins/loci_tools.jar"/>
+	<classpathentry kind="lib" path="/IJ/plugins/CellsBoundaries_.jar"/>
+	<classpathentry kind="lib" path="/usr/java/jdk1.6.0_45/lib/tools.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IJ"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-algorithms-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-algorithms-gpl-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-algorithms-legacy-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-ij-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-meta-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-ops-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/imglib2-realtransform-2.0.0-beta-25.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/tools-1.4.2.jar"/>
+	<classpathentry kind="lib" path="/home/marie/workspace/IJ/plugins/Fiji_Plugins-2.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/marie/workspace/IJ/plugins/TrackMate_-2.1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/IJ/jars/edu_mines_jtk.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

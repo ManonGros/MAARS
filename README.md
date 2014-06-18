@@ -1,4 +1,2 @@
-MAARS
-=====
+# Objects detection and robust tracking for cell biology
 
-A set of Fiji plugin for cell biology analysis

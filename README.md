@@ -1,2 +1,2 @@
-# Objects detection and robust tracking for cell biology
+# Set of Fiji and Micro-manager plugin for biology analysis
 
